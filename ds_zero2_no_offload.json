@@ -38,8 +38,6 @@
             "warmup_num_steps": "auto"
         }
     },
-
-
     "gradient_accumulation_steps": "auto",
     "gradient_clipping": "auto",
     "steps_per_print": 2000,
